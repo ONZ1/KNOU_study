@@ -18,11 +18,5 @@
     <ClCompile Include="001_IO.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="002loop.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="003loop.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
