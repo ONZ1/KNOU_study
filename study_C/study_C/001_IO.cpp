@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main_IO(void)
+int main(void)
 {
 	printf("hello world\n");
 
